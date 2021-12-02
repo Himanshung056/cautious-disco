@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
-  version: '1.0.0'gvjbhgvj
+  version: '1.0.0'gvjbhgvjv nv
   title: 'test 001'
 servers:
   - url: 'localhost:3000'
