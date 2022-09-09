@@ -1,0 +1,15 @@
+id = d94e6767-2056-46ff-9699-2747cdb19de8
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+
+[relations.apiDefinition.metaData]
+type = proto:2
+rootFiles[] = schema.proto
